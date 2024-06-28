@@ -1,1 +1,1 @@
-# 2023BigContest_Advanced_League
+# 2023 빅콘테스트 정형데이터 어드밴스드 리그
