@@ -23,7 +23,7 @@
 
 
 ## 발표 영상
-유튜브 영상: https://youtu.be/olgo5V0hhig?si=ktUajUzyQMt97ERl
+유튜브 영상: https://youtu.be/olgo5V0hhig?si=ktUajUzyQMt97ERl <br/>
 발표자료: 정형어드밴스드_팀_전당포.pdf
 
 
